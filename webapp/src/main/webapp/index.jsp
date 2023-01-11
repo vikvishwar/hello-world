@@ -10,9 +10,11 @@
         <a href="#" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
         </a>
+        </br>
         <a href="#" class="twitter btn">
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
+        </br>
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
