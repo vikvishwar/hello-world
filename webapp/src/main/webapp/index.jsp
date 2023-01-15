@@ -15,6 +15,10 @@
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
         </br>
+        <a href="#" class="insta btn">
+          <i class="fa fa-insta fa-fw"></i> Login with Instagram
+        </a>
+        </br>
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
