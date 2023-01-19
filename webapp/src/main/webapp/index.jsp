@@ -16,7 +16,7 @@
         </a>
         </br>
         <a href="#" class="insta btn">
-          <i class="fa fa-insta fa-fw"></i> Login with Instagram
+          <i class="fa fa-insta fa-fw"></i> Login with Insta
         </a>
         </br>
         <a href="#" class="google btn">
