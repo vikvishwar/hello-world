@@ -8,11 +8,11 @@
 
       <div class="col">
         <a href="#" class="fb btn">
-          <i class="fa fa-facebook fa-fw"></i> Login with Facebook
+          <i class="fa fa-faceboo fa-fw"></i> Login with Faceboo
         </a>
         </br>
-        <a href="#" class="twitter btn">
-          <i class="fa fa-twitter fa-fw"></i> Login with Twitter
+        <a href="#" class="twit btn">
+          <i class="fa fa-twit fa-fw"></i> Login with Twit
         </a>
         </br>
         <a href="#" class="insta btn">
